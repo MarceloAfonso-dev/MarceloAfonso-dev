@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/133604815?v=4"  />
+  <img height="150" src="https://usagif.com/wp-content/uploads/cat-typing-2.gif"  />
 </div>
 
 ###
